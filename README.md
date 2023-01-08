@@ -38,11 +38,3 @@ Vous avez egalement la posibilité de réorganiser les schemas
 
 Nous avons placés dans la racine de notre projet un fichier 
   video qui est un petit guide d'utilisation.
-
-Membres du groupe:
-
-1. NGUEGUIM FOUETIEU Morritz Romel      CM-UDS-19SCI2070
-2. TEMATEU Roslyn Bedel                 CM-UDS-18SCI0280
-3. TSAGUE Yves Thibaut                  CM-UDS-18SCI1977
-4. TOUA A NGONO Reine                   CM-UDS-19SCI1335
-5. TCHAKOUYEP KOMBOU Lauyque            CM-UDS-18SCI2429
