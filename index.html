@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>IN3 Compilation Project</title>
+</head>
+<body>
+    <div class="intro">
+        <p class="title"><u>PROJET DE COMPILATION</u></p>
+        <p class="theme">Realisation d'Automates en JavaScript</p>
+    </div>
+    <div class="user">
+        <div class="userData">
+            <input type="text" placeholder="Entrez votre l'alphabet: a,b,c" id="alphabet">
+            <input type="text" placeholder="Entrez votre Regex +,.,*" id="regex">
+            <button class="begin">Begin</button>
+        </div>
+        <div class="inputWord">
+            <input type="text" placeholder="Entrez un mot" id="word">
+            <button class="checkAFD">Check With AFD</button>
+            <button class="checkAFDMin">Check With AFD Minimal</button>
+        </div>
+    </div>
+    <div class="roadConfigOfWord">
+        <textarea placeholder="configuration du mot par l'AFD" id="roadConfigOfAFD"></textarea>
+        <label class="debug">Debug zone</label>
+        <textarea placeholder="configuration du mot par l'AFD Minimal" id="roadConfigOfAFDMin"></textarea>
+    </div>
+    <div class="drawRoad">
+    </div>
+    <div >
+        <div id="afnDiv"></div>
+        <div id="afdDiv"></div>
+        <div id="afdMinDiv"></div>
+    </div>
+    <div>
+        <label >By @Merritz</label>
+    </div>
+
+    <script src="./library/go.js"></script>
+    <script src="./js/Regex.js"></script>
+    <script src="./js/AFN.js"></script>
+    <script src="./js/AFD.js"></script>
+    <script src="./js/Drawer.js"></script>
+    <script src="./js/verification.js"></script>
+    <script src="./js/AFDMin.js"></script>
+    <script src="./js/test.js"></script>
+    <!-- <script src="./script.js"></script> -->
+</body>
+</html>
