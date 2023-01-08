@@ -1,14 +1,14 @@
 
-PROJET DE COMPILATION
+# PROJET DE COMPILATION
 
 
-THEME: conception d'Automates
+## THEME: conception d'Automates
 
-TECHNOLOGIES:
+## TECHNOLOGIES:
 Langages: HTML, JAVASCRIPT, CSS
 Library: GOJS 
 
-
+## Description du projet
 Ce projet a pour but de mettre en pratique les acquis du
   cours théorique de COMPILATION , il s'agit de concevoir une
   application qui à partir d'une expréssion régulière sortira
@@ -18,7 +18,6 @@ Ce projet a pour but de mettre en pratique les acquis du
   entrer appartient ou pas au langage decrit par une
   expression régulière, on représentera également comment
   cette vérification est éffectuée.
-
 
 Nous avons implémenter les
   différents algorithmes du cours dans plusieurs modules du
