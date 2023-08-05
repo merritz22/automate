@@ -53,3 +53,4 @@ Nous avons placés dans la racine de notre projet un fichier
   video qui est un petit guide d'utilisation.
 
 # DEMO LINK
+https://merritz22.github.io/automate/
