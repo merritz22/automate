@@ -2,7 +2,7 @@
 # CONCEPTION D'UN AUTOMATE
 
 <p>
-  <video src="./images/MiniTest.mp4" type="video/mp4" autoplay="false" >
+  <video src="./images/MiniTest.mp4" />
 </p>
 
 # TECHNOLOGIES
