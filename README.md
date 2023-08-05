@@ -1,14 +1,25 @@
 
-# PROJET DE COMPILATION
+# CONCEPTION D'UN AUTOMATE
 
+<p>
+  <video src="./images/MiniTest.mp4" type="video/mp4" autoplay="false" >
+</p>
 
-## THEME: conception d'Automates
+# TECHNOLOGIES
+<p>
+  <img src="images/css-3_732190.png" width="16" /> <b>CSS</b>
+</p>
+<p>
+  <img src="images/html5_1216733.png" width="16" /> <b>HTML</b>
+</p>
+<p>
+  <img src="images/js_5968292.png" width="16" /> <b>JAVASCRIPT</b>
+</p>
 
-## TECHNOLOGIES:
-Langages: HTML, JAVASCRIPT, CSS
-Library: GOJS 
+## Library 
+<img src="https://camo.githubusercontent.com/830c9d0454c5a15f28828e2840851a8bc5b777e34f166333a10296d9880bb3a3/68747470733a2f2f7777772e6e776f6f64732e636f6d2f696d616765732f676f2e706e67" width="16" /> <b>GOJS</b> 
 
-## Description du projet
+# DESCRIPTION
 Ce projet a pour but de mettre en pratique les acquis du
   cours théorique de COMPILATION , il s'agit de concevoir une
   application qui à partir d'une expréssion régulière sortira
@@ -37,3 +48,5 @@ Vous avez egalement la posibilité de réorganiser les schemas
 
 Nous avons placés dans la racine de notre projet un fichier 
   video qui est un petit guide d'utilisation.
+
+# DEMO LINK
