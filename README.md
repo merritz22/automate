@@ -2,7 +2,10 @@
 # CONCEPTION D'UN AUTOMATE
 
 <p>
-  <video src="./images/MiniTest.mp4" />
+  <img src="images/a1.png" />
+  <img src="images/a2.png" />
+  <img src="images/a3.png" />
+  <img src="images/a4.png" />
 </p>
 
 # TECHNOLOGIES
